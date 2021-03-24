@@ -1,2 +1,2 @@
 # educational-eBusiness
-Joc creat pentru ora de eBusines, Liceul Economic Buzau
+Little quiz game for Economic Highschool Buzau
